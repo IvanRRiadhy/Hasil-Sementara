@@ -1,1 +1,0 @@
-Game Baratayudha(nama sementara), khusus bug testing
